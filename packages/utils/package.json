@@ -1,6 +1,6 @@
 {
   "name": "@imooc_cli_xzfd/utils",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "imooc_cli_dev utils",
   "author": "zhongcheng <zhongcheng@bytedance.com>",
   "homepage": "",
@@ -16,5 +16,5 @@
   "scripts": {
     "test": "echo \"Run test from utils\""
   },
-  "gitHead": "3b90beafcf1e8638a7250506a888708f1cf87656"
+  "gitHead": "f293b48e9f89822ae57a43e3fc8bf414221d843c"
 }

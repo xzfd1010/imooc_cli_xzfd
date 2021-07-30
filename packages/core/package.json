@@ -1,11 +1,14 @@
 {
   "name": "@imooc_cli_xzfd/core",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "imooc_cli_dev core",
   "author": "zhongcheng <zhongcheng@bytedance.com>",
   "homepage": "",
   "license": "ISC",
   "main": "lib/core.js",
+  "bin":{
+    "imooc_cli_xzfd": "bin/index.js"
+  },
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -14,10 +17,9 @@
     "lib"
   ],
   "scripts": {
-    "test": "echo \"Run test from utils\""
+    "test": "echo \"Run test from core\""
   },
   "dependencies": {
-    "@imooc_cli_xzfd/utils": "^1.0.1"
-  },
-  "gitHead": "3b90beafcf1e8638a7250506a888708f1cf87656"
+    "@imooc_cli_xzfd/utils": "^1.0.0"
+  }
 }
