@@ -1,6 +1,6 @@
 {
   "name": "@imooc_cli_xzfd/core",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "imooc_cli_dev core",
   "author": "zhongcheng <zhongcheng@bytedance.com>",
   "homepage": "",
@@ -20,7 +20,7 @@
     "test": "echo \"Run test from core\""
   },
   "dependencies": {
-    "@imooc_cli_xzfd/utils": "^1.1.0"
+    "@imooc_cli_xzfd/utils": "^1.1.1"
   },
   "gitHead": "ae5e5b019e926bf4d2df36dc68e80cadb8f19c74"
 }
