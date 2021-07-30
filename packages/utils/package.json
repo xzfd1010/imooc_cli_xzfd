@@ -1,0 +1,19 @@
+{
+  "name": "@imooc_cli_xzfd/utils",
+  "version": "1.0.0",
+  "description": "imooc_cli_dev utils",
+  "author": "zhongcheng <zhongcheng@bytedance.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/utils.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Run test from utils\""
+  }
+}
